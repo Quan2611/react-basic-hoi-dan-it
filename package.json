@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "antd": "^4.19.5",
+    "node-sass": "6.0",
+    "react-toastify": "8.2.0"
+  }
+}
